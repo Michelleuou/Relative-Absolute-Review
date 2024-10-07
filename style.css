@@ -12,3 +12,11 @@ a:hover {
   background-color: transparent;
   text-decoration: underline;
 }
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:visted{
+  color: pink
+}
