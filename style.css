@@ -1,4 +1,8 @@
 body {
   background-color: powderblue;
 }
-a:link {color:red}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
